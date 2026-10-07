@@ -5,7 +5,7 @@
 
 ## 1. Quiénes somos y aceptación
 
-Estos Términos y Condiciones (los "Términos") regulan el uso de **Payphone TN** (la "Aplicación"), una aplicación de pagos para tiendas Tiendanube / Nuvemshop, desarrollada y operada por **[Razón social]**, RUC **[RUC de Ecuapps]**, con nombre comercial **Ecuapps** ("Ecuapps", "nosotros"), con domicilio en [dirección, ciudad, Ecuador] y correo de contacto [correo de soporte].
+Estos Términos y Condiciones (los "Términos") regulan el uso de **Payphone TN** (la "Aplicación"), una aplicación de pagos para tiendas Tiendanube / Nuvemshop, desarrollada y operada por **LJGV** ("LJGV", "nosotros").
 
 Al instalar o usar la Aplicación, el titular de la tienda (el "Comercio") declara que ha leído y acepta estos Términos. Si no está de acuerdo, no debe instalar ni usar la Aplicación. Quien instala la Aplicación en nombre de una empresa declara tener facultades para obligarla.
 
@@ -18,7 +18,7 @@ La Aplicación conecta el checkout de la tienda del Comercio en Tiendanube con e
 - informa a Tiendanube el estado del pago para que el pedido se actualice;
 - permite gestionar, cuando Payphone lo permita, la reversión de pagos.
 
-**Ecuapps no es una entidad financiera, no es un procesador de pagos ni una entidad de dinero electrónico.** El procesamiento de pagos lo realiza exclusivamente Payphone. Ecuapps solo provee la integración tecnológica entre Tiendanube y Payphone.
+**LJGV no es una entidad financiera, no es un procesador de pagos ni una entidad de dinero electrónico.** El procesamiento de pagos lo realiza exclusivamente Payphone. LJGV solo provee la integración tecnológica entre Tiendanube y Payphone.
 
 ## 3. Requisitos del Comercio
 
@@ -33,13 +33,13 @@ Para usar la Aplicación el Comercio debe:
 
 4.1. Al instalar la Aplicación, el Comercio proporciona su RUC, razón social o nombre y correo de contacto.
 
-4.2. Con esos datos, Ecuapps solicita a Payphone, a través del servicio "Comercio aliado: Token de tercero", la generación de un Token y un StoreID **exclusivos del Comercio**. El Comercio **no necesita** acceder a Payphone Business ni a Payphone Developers para usar la Aplicación.
+4.2. Con esos datos, LJGV solicita a Payphone, a través del servicio "Comercio aliado: Token de tercero", la generación de un Token y un StoreID **exclusivos del Comercio**. El Comercio **no necesita** acceder a Payphone Business ni a Payphone Developers para usar la Aplicación.
 
-4.3. Los pagos se acreditan **directamente en el Saldo Payphone asociado al RUC del Comercio**. Ecuapps no recibe, retiene ni administra los fondos del Comercio. Un RUC incorrecto puede impedir la acreditación; el Comercio es responsable de la exactitud del RUC proporcionado.
+4.3. Los pagos se acreditan **directamente en el Saldo Payphone asociado al RUC del Comercio**. LJGV no recibe, retiene ni administra los fondos del Comercio. Un RUC incorrecto puede impedir la acreditación; el Comercio es responsable de la exactitud del RUC proporcionado.
 
-4.4. Payphone puede aprobar, rechazar, suspender o revocar las credenciales de un Comercio según sus propias políticas. Ecuapps no garantiza la aprobación ni responde por decisiones de Payphone.
+4.4. Payphone puede aprobar, rechazar, suspender o revocar las credenciales de un Comercio según sus propias políticas. LJGV no garantiza la aprobación ni responde por decisiones de Payphone.
 
-4.5. Ecuapps custodia las credenciales del Comercio con medidas técnicas razonables (incluido cifrado) y las usa únicamente para procesar los pagos de ese Comercio. El Comercio puede solicitar en cualquier momento su rotación o eliminación.
+4.5. LJGV custodia las credenciales del Comercio con medidas técnicas razonables (incluido cifrado) y las usa únicamente para procesar los pagos de ese Comercio. El Comercio puede solicitar en cualquier momento su rotación o eliminación.
 
 ## 5. Costos
 
@@ -47,7 +47,7 @@ Para usar la Aplicación el Comercio debe:
 
 5.2. Las tarifas, comisiones y condiciones de Payphone por el procesamiento de pagos, así como las de Tiendanube, son independientes, las cobra cada proveedor y se rigen por sus propios términos.
 
-5.3. Ecuapps podrá introducir en el futuro un cobro por transacción u otro modelo de precios. En ese caso lo comunicará al Comercio con al menos **30 días** de anticipación por correo y/o dentro de la Aplicación, indicando la tarifa y la forma de cobro. Si el Comercio no está de acuerdo, podrá desinstalar la Aplicación antes de que el cobro entre en vigor.
+5.3. LJGV podrá introducir en el futuro un cobro por transacción u otro modelo de precios. En ese caso lo comunicará al Comercio con al menos **30 días** de anticipación por correo y/o dentro de la Aplicación, indicando la tarifa y la forma de cobro. Si el Comercio no está de acuerdo, podrá desinstalar la Aplicación antes de que el cobro entre en vigor.
 
 ## 6. Funcionamiento del pago y plazos de Payphone
 
@@ -68,9 +68,9 @@ El Comercio se obliga a:
 2. cumplir las normas tributarias, de comercio electrónico y de protección al consumidor aplicables, incluida la emisión de comprobantes de venta y la atención de reclamos de sus compradores;
 3. no intentar eludir, manipular ni interferir con la seguridad de la Aplicación;
 4. no usar la Aplicación para fraude, lavado de activos u otras actividades ilícitas;
-5. informar de inmediato a Ecuapps cualquier uso no autorizado de sus credenciales.
+5. informar de inmediato a LJGV cualquier uso no autorizado de sus credenciales.
 
-El Comercio es el único responsable de sus productos, precios, entregas, garantías, devoluciones y de la relación con sus compradores. Ecuapps no es parte de la compraventa entre el Comercio y el comprador.
+El Comercio es el único responsable de sus productos, precios, entregas, garantías, devoluciones y de la relación con sus compradores. LJGV no es parte de la compraventa entre el Comercio y el comprador.
 
 ## 8. Datos personales y seguridad
 
@@ -80,7 +80,7 @@ El Comercio es el único responsable de sus productos, precios, entregas, garant
 
 8.3. **Finalidad y base.** Tratamos estos datos únicamente para prestar el servicio, cumplir obligaciones legales, prevenir fraude, dar soporte y, en su caso, facturar. No vendemos datos personales.
 
-8.4. **Roles.** Respecto de los datos de los compradores, el Comercio es el responsable del tratamiento y Ecuapps actúa como encargado, conforme a la Ley Orgánica de Protección de Datos Personales del Ecuador. Payphone y Tiendanube tratan los datos como responsables propios bajo sus políticas.
+8.4. **Roles.** Respecto de los datos de los compradores, el Comercio es el responsable del tratamiento y LJGV actúa como encargado, conforme a la Ley Orgánica de Protección de Datos Personales del Ecuador. Payphone y Tiendanube tratan los datos como responsables propios bajo sus políticas.
 
 8.5. **Terceros.** Compartimos datos con Payphone y Tiendanube en la medida necesaria para procesar los pagos, y con proveedores de infraestructura (alojamiento y base de datos) que actúan bajo nuestras instrucciones.
 
@@ -98,25 +98,25 @@ La Aplicación depende de servicios de terceros (Tiendanube, Payphone, proveedor
 
 10.1. El Comercio puede dejar de usar la Aplicación en cualquier momento desinstalándola desde su panel de Tiendanube. Los pagos en curso se rigen por las condiciones de Payphone.
 
-10.2. Ecuapps puede suspender o terminar el acceso, con o sin aviso previo según la gravedad, si: hay incumplimiento de estos Términos; Payphone o Tiendanube lo solicitan o revocan permisos; existe sospecha razonable de fraude o actividad ilícita; o por obligación legal.
+10.2. LJGV puede suspender o terminar el acceso, con o sin aviso previo según la gravedad, si: hay incumplimiento de estos Términos; Payphone o Tiendanube lo solicitan o revocan permisos; existe sospecha razonable de fraude o actividad ilícita; o por obligación legal.
 
 10.3. Tras la desinstalación o terminación, desactivaremos las credenciales del Comercio y conservaremos únicamente los datos necesarios para obligaciones legales, conciliación y resolución de disputas, por los plazos aplicables.
 
 ## 11. Propiedad intelectual
 
-La Aplicación, su código, marca y documentación son de Ecuapps o de sus licenciantes. Estos Términos otorgan al Comercio una licencia limitada, revocable, no exclusiva e intransferible para usarla mientras tenga una tienda activa. Payphone y Tiendanube son marcas de sus respectivos titulares.
+La Aplicación, su código, marca y documentación son de LJGV o de sus licenciantes. Estos Términos otorgan al Comercio una licencia limitada, revocable, no exclusiva e intransferible para usarla mientras tenga una tienda activa. Payphone y Tiendanube son marcas de sus respectivos titulares.
 
 ## 12. Limitación de responsabilidad
 
 En la medida permitida por la ley:
 
 1. la Aplicación se ofrece "tal cual" y según disponibilidad;
-2. Ecuapps no responde por actos u omisiones de Payphone, Tiendanube, bancos, emisores de tarjetas o compradores, ni por rechazos, retrasos, reversiones, bloqueos o disputas de pagos decididos por ellos;
-3. Ecuapps no responde por lucro cesante, pérdida de ventas, daño reputacional ni daños indirectos;
-4. la responsabilidad total de Ecuapps frente al Comercio por cualquier reclamo derivado de estos Términos se limita al monto de las tarifas que el Comercio haya pagado a Ecuapps en los 12 meses anteriores al hecho o, si el servicio fue gratuito, a USD [100];
+2. LJGV no responde por actos u omisiones de Payphone, Tiendanube, bancos, emisores de tarjetas o compradores, ni por rechazos, retrasos, reversiones, bloqueos o disputas de pagos decididos por ellos;
+3. LJGV no responde por lucro cesante, pérdida de ventas, daño reputacional ni daños indirectos;
+4. la responsabilidad total de LJGV frente al Comercio por cualquier reclamo derivado de estos Términos se limita al monto de las tarifas que el Comercio haya pagado a LJGV en los 12 meses anteriores al hecho;
 5. nada en estos Términos limita derechos irrenunciables del consumidor ni la responsabilidad que la ley no permita limitar.
 
-El Comercio mantendrá indemne a Ecuapps frente a reclamos de terceros derivados del uso ilícito de la Aplicación por el Comercio o del incumplimiento de estos Términos.
+El Comercio mantendrá indemne a LJGV frente a reclamos de terceros derivados del uso ilícito de la Aplicación por el Comercio o del incumplimiento de estos Términos.
 
 ## 13. Cambios a los Términos
 
@@ -124,9 +124,5 @@ Podemos modificar estos Términos. Los cambios materiales se notificarán con al
 
 ## 14. Ley aplicable y jurisdicción
 
-Estos Términos se rigen por las leyes de la República del Ecuador. Las partes buscarán resolver cualquier controversia de buena fe y, de no lograrlo, se someten a los jueces competentes de [Guayaquil], Ecuador [o al centro de mediación/arbitraje que se elija].
+Estos Términos se rigen por las leyes de la República del Ecuador. Las partes buscarán resolver cualquier controversia de buena fe y, de no lograrlo, se someten a los jueces competentes de [Guayaquil], Ecuador.
 
-## 15. Contacto
-
-**Ecuapps** — [Razón social], RUC [RUC]
-Correo: [correo de soporte] · Sitio: [URL] · Dirección: [dirección]
